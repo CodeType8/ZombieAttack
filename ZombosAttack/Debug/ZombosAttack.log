@@ -1,0 +1,7 @@
+﻿  GameLoop.cpp
+c:\users\james\desktop\zombosattack\zombosattack\gameloop.cpp(30): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  ZombosAttack.vcxproj -> C:\Users\James\Desktop\ZombosAttack\Debug\ZombosAttack.exe
+  ZombosAttack.vcxproj -> C:\Users\James\Desktop\ZombosAttack\Debug\ZombosAttack.pdb (Full PDB)
